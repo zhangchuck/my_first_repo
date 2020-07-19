@@ -1,2 +1,5 @@
 # my_first_repo
-Teaching REPO
+
+Welcome!
+
+First and second changes.
