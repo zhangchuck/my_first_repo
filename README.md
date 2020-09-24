@@ -5,3 +5,5 @@ Welcome!
 First and second changes.
 
 New changes. 
+
+This is a simulated change from a collaborator.
